@@ -7,7 +7,8 @@
 
 ## Website Preview
 
-<video width="820" height="440" controls>
-  <source src="/public/video/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![WebImg](/public/webDemo/1.png)
+![WebImg](/public/webDemo/2.png)
+![WebImg](/public/webDemo/3.png)
+![WebImg](/public/webDemo/4.png)
+![WebImg](/public/webDemo/5.png)
