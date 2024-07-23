@@ -3,6 +3,8 @@
 ### Tech Stack
 
 - Nextjs
+- TailwindCSS
+- TypeScript
 - Acertinity UI
 
 ## Website Preview
